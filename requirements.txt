@@ -9,5 +9,4 @@ scikit-learn>=1.7.2
 joblib>=1.5.3
 nltk>=3.9.4
 wordcloud>=1.9.6
-imblearn>=0.14.1
 streamlit>=1.57.0
